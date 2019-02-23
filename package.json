@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@types/node": "^11.9.5",
     "express": "^4.16.4"
   }
 }
